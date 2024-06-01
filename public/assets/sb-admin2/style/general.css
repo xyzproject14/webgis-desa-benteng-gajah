@@ -1,0 +1,19 @@
+.bt-green {
+    background-color: green;
+    color: white;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 0.2rem 1rem;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    float: right;
+}
+
+.btn {
+    padding: 0.5px 0.5rem;
+    text-decoration: none;
+    margin-right: 0.5rem;
+}
+.action {
+    gap: 2;
+}

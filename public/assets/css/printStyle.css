@@ -1,0 +1,10 @@
+@media print {
+    .no-print {
+        display: none !important;
+    }
+
+    @page {
+        size: landscape;
+        /* size: A4; */
+    }
+}

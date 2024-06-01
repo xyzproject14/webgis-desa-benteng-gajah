@@ -1,0 +1,19 @@
+.main-container {
+    width: 65%;
+    height: 350px;
+    border-radius: 5px;
+}
+.main-container .row-slider {
+    display: flex;
+    height: 90%;
+    overflow: hidden;
+}
+.main-container .row-slider .slider {
+    min-width: 100%;
+}
+
+.main-container .butt-grup {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
